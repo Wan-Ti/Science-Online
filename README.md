@@ -22,6 +22,6 @@
 
    i. <a href="https://portal.shadowsocks.nz/knowledgebase/164/Windows%E5%91%BD%E4%BB%A4%E8%A1%8C%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.html">【Windows】命令行使用教程</a>
    
-   ii. <a href="https://github.com/sun-shadow/Surf_the_Internet/blob/master/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%AF%87.md#Mac%E5%91%BD%E4%BB%A4%E8%A1%8Cfq">Mac命令行</a>
+   ii. <a href="https://portal.shadowsocks.nz/knowledgebase/159/">【Mac】命令行使用教程</a>
    
-   iii. <a href="https://github.com/sun-shadow/Surf_the_Internet/blob/master/%E5%91%BD%E4%BB%A4%E8%A1%8C%E7%AF%87.md#Mac%E5%91%BD%E4%BB%A4%E8%A1%8Cfq">Linux命令行FQ</a>
+   iii. <a href="https://portal.shadowsocks.nz/knowledgebase/160/">【Linux】命令行使用教程</a>
